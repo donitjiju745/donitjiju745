@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm DONIT JIJU 👋
 
-<!--
-**donitjiju745/donitjiju745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **B.E. Student in AI & Machine Learning** based in Bengaluru,India. I am currently learning how language models work and slowly figuring out where I fit in the AI world. I enjoy breaking down complex AI concepts, building things from scratch, and exploring how technology can work for more people and more languages.
 
-Here are some ideas to get you started:
+### 🔍 Technical Interests
+- **Natural Language Processing (NLP):** Deep interest in how models process human language.
+- **Multilingual AI:** Exploring AI applications for regional and low-resource languages.
+- **LLM Internals:** Curious about the underlying architecture of Large Language Models.
+- **Real-World AI:** Focused on bridging the gap between theory and practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 📈 GitHub Stats
+![Donit's GitHub stats](https://github-readme-stats.vercel.app/api?username=donitjiju745&show_icons=true&theme=transparent)
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donit-jiju-249067329)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donitjiju745@gmail.com)
