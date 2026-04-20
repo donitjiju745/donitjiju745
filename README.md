@@ -27,5 +27,5 @@ I am a **B.E. Student in AI & Machine Learning** based in Bengaluru,India. I am 
 ![Donit's GitHub stats](https://github-readme-stats.vercel.app/api?username=donitjiju745&show_icons=true&theme=transparent)
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donit-jiju-249067329)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donitjiju)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donitjiju745@gmail.com)
