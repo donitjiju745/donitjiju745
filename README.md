@@ -23,9 +23,8 @@ I am a **B.E. Student in AI & Machine Learning** based in Bengaluru,India. I am 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 📈 GitHub Stats
-![Donit's GitHub stats](https://github-readme-stats.vercel.app/api?username=donitjiju745&show_icons=true&theme=transparent)
+### 📈 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donitjiju745&theme=transparent)](https://git.io/streak-stats))
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donitjiju)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donitjiju745@gmail.com)
