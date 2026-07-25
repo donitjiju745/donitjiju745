@@ -4,7 +4,7 @@
 
 ### Final-Year AI/ML Engineer · Full-Stack Developer · Building AI for Every Language
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making;NLP+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+Dev+%E2%80%94+Java+%2B+React;Building+for+low-resource+Indian+languages" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making;NLP+%7C+Deep+Learning+%7C+Computer+Vision;Full-Stack+Dev+%E2%80%94+Java+%2B+React" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://donitjiju.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donitjiju745@gmail.com)
@@ -72,8 +72,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 </td>
-</tr>
-<tr>
+
 <td valign="top" colspan="2">
 
 **🧰 Tools & Platforms**
