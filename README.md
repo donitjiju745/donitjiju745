@@ -24,7 +24,7 @@ I am a **B.E. Student in AI & Machine Learning** based in Bengaluru,India. I am 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donitjiju745&theme=transparent)](https://git.io/streak-stats))
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donitjiju745&theme=transparent)]
 
 ### 📫 Connect with me:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:donitjiju745@gmail.com)
