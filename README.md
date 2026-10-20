@@ -38,13 +38,13 @@ My repositories reflect my interests in **Natural Language Processing (NLP), tex
 
 *These reflect tools and concepts used across my projects and ongoing learning—not a claim of expert-level proficiency.*
 
-| Area | Tools and concepts |
+| Area | Technology labels |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **ML & Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **NLP** | TF-IDF · Jaccard similarity · WordNet · LDA · text retrieval · question answering · RAG |
-| **App & Visualization** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
-| **Data & Development Tools** | Neo4j / Cypher · Git · Jupyter Notebook |
+| **NLP & Text Processing** | ![NLP](https://img.shields.io/badge/NLP-0EA5E9?style=flat-square) ![TF--IDF](https://img.shields.io/badge/TF--IDF-2563EB?style=flat-square) ![Jaccard Similarity](https://img.shields.io/badge/Jaccard%20Similarity-7C3AED?style=flat-square) ![WordNet](https://img.shields.io/badge/WordNet-9333EA?style=flat-square) ![LDA](https://img.shields.io/badge/LDA-D97706?style=flat-square) ![Text Retrieval](https://img.shields.io/badge/Text%20Retrieval-0F766E?style=flat-square) ![Question Answering](https://img.shields.io/badge/Question%20Answering-DB2777?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square) |
+| **Apps & Visualization** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| **Data & Development Tools** | ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white) ![Cypher](https://img.shields.io/badge/Cypher-334155?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ---
 
@@ -109,7 +109,9 @@ My repositories reflect my interests in **Natural Language Processing (NLP), tex
 
 <img height="170" src="https://streak-stats.demolab.com?user=donitjiju745&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=donitjiju745&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<a href="https://github.com/donitjiju745?tab=overview">
+  <img src="https://ghchart.rshah.org/2f81f7/donitjiju745" alt="GitHub contribution activity calendar" width="95%" />
+</a>
 
 </div>
 
